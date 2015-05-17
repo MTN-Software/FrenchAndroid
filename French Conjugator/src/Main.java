@@ -25,123 +25,123 @@ public class Main {
         //this section does the stuff
         // first layer of switches is the tenses, second layer of switches is the subjects
         switch (infostring1){
-        case "1":
+        case "Present":
         	switch(infostring2){
-        	case "1":
+        	case "Je":
         		break;
-        	case "2":
+        	case "Tu":
         		break;
-        	case "3":
+        	case "Il":
         		break;
-        	case "4":
+        	case "Elle":
         		break;
-        	case "5":
+        	case "Nous":
         		break;
-        	case "6":
+        	case "Vous":
         		break;
-        	case "7":
+        	case "Ils":
         		break;
-        	case "8":
+        	case "Elles":
         		break;
         	}
         	break;
-        case "2":
+        case "PC":
         	switch(infostring2){
-        	case "1":
+        	case "Je":
         		break;
-        	case "2":
+        	case "Tu":
         		break;
-        	case "3":
+        	case "Il":
         		break;
-        	case "4":
+        	case "Elle":
         		break;
-        	case "5":
+        	case "Nous":
         		break;
-        	case "6":
+        	case "Vous":
         		break;
-        	case "7":
+        	case "Ils":
         		break;
-        	case "8":
+        	case "Elles":
         		break;
         	}
         	break;
-        case "3":
+        case "Imperfect":
         	switch(infostring2){
-        	case "1":
+        	case "Je":
         		break;
-        	case "2":
+        	case "Tu":
         		break;
-        	case "3":
+        	case "Il":
         		break;
-        	case "4":
+        	case "Elle":
         		break;
-        	case "5":
+        	case "Nous":
         		break;
-        	case "6":
+        	case "Vous":
         		break;
-        	case "7":
+        	case "Ils":
         		break;
-        	case "8":
+        	case "Elles":
         		break;
         	}
         	break;
-        case "4":
+        case "FP":
         	switch(infostring2){
-        	case "1":
+        	case "Je":
         		break;
-        	case "2":
+        	case "Tu":
         		break;
-        	case "3":
+        	case "Il":
         		break;
-        	case "4":
+        	case "Elle":
         		break;
-        	case "5":
+        	case "Nous":
         		break;
-        	case "6":
+        	case "Vous":
         		break;
-        	case "7":
+        	case "Ils":
         		break;
-        	case "8":
+        	case "Elles":
         		break;
         	}
         	break;
-        case "5":
+        case "FS":
         	switch(infostring2){
-        	case "1":
+        	case "Je":
         		break;
-        	case "2":
+        	case "Tu":
         		break;
-        	case "3":
+        	case "Il":
         		break;
-        	case "4":
+        	case "Elle":
         		break;
-        	case "5":
+        	case "Nous":
         		break;
-        	case "6":
+        	case "Vous":
         		break;
-        	case "7":
+        	case "Ils":
         		break;
-        	case "8":
+        	case "Elles":
         		break;
         	}
         	break;
-        case "6":
+        case "Conditional":
         	switch(infostring2){
-        	case "1":
+        	case "Je":
         		break;
-        	case "2":
+        	case "Tu":
         		break;
-        	case "3":
+        	case "Il":
         		break;
-        	case "4":
+        	case "Elle":
         		break;
-        	case "5":
+        	case "Nous":
         		break;
-        	case "6":
+        	case "Vous":
         		break;
-        	case "7":
+        	case "Ils":
         		break;
-        	case "8":
+        	case "Elles":
         		break;
         	}
         break;
